@@ -91,6 +91,3 @@ This project demonstrates solid proficiency in basic and advanced Pandas functio
 *   Add visualizations (Matplotlib/Seaborn) for price and rating distribution charts.
 *   Perform data cleaning to remove duplicates and outliers.
 *   Implement simple scripts to download the latest versions of datasets via `kagglehub`.
-
----
-⭐️ *If you like this project or find it useful for your learning, please give it a star on GitHub!*
